@@ -7,8 +7,8 @@ import { ToastProvider } from "@/components/ui/toast"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Couple's Digital Museum",
-  description: "A digital museum of memories for a loving couple",
+  title: "A+H Museum",
+  description: "me and hannah's digital museum",
 }
 
 export default function RootLayout({
